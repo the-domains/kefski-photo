@@ -1,7 +1,7 @@
 name: KEFSKI Photo
 favicon: null
-layout_spectrum: 0.7995858187787235
-typography_spectrum: 0.5146587425842881
+layout_spectrum: 0.18185
+typography_spectrum: 0.60273
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9179649397265166
-  lightness: 0.9485543500632048
-  saturation: 0.4057362084276974
-  rhythmicContrast: 0.8013209789060056
+    - '#fcbc5f'
+    - '#ff0000'
+    - '#000000'
+    - '#7f7f00'
+    - '#ffffff'
+  brandStrength: 0.9375
+  lightness: 0.1875
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
