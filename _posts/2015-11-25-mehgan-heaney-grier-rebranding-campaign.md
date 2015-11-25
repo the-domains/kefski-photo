@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-25T17:17:09.846Z'
-dateModified: '2015-11-25T17:16:48.145Z'
+datePublished: '2015-11-25T17:18:44.476Z'
+dateModified: '2015-11-25T17:18:37.355Z'
 title: Mehgan Heaney-Grier Rebranding Campaign
 author: []
 authors: []
