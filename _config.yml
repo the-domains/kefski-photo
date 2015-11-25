@@ -2,6 +2,7 @@ name: KEFSKI Photo
 favicon: null
 layout_spectrum: 0.18185
 typography_spectrum: 0.60273
+title: KEFSKI Photo
 cta:
   domain: null
   bucket: null
