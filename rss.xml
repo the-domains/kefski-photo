@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KEFSKI Photo]]></title>
         <description><![CDATA[KEFSKI Photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kefski-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 17:17:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Nov 2015 17:18:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kefski-photo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mehgan Heaney-Grier Rebranding Campaign]]></title>
             <description><![CDATA[<article><h1>Mehgan Heaney-Grier Rebranding Campaign</h1><p>Mehgan Heaney-Grier Rebranding Campaign </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3120ba4-e9e7-4ddc-935c-b5c4bf960fc9.jpg"></article>]]></description>
-            <link>undefinedmehgan-heaney-grier-rebranding-campaign/index.html</link>
+            <link>https://thegrid.ai/kefski-photo/mehgan-heaney-grier-rebranding-campaign/index.html</link>
             <guid isPermaLink="false">7cbbf1a0-0dfd-4125-a6d4-ca63b34eb7d2</guid>
-            <pubDate>Wed, 25 Nov 2015 17:17:09 GMT</pubDate>
+            <pubDate>Wed, 25 Nov 2015 17:18:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
