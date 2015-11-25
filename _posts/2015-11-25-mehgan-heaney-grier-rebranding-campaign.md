@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-25T17:18:44.476Z'
-dateModified: '2015-11-25T17:18:37.355Z'
+datePublished: '2015-11-25T17:23:24.095Z'
+dateModified: '2015-11-25T17:18:44.476Z'
 title: Mehgan Heaney-Grier Rebranding Campaign
 author: []
 authors: []
