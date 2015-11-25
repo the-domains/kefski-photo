@@ -1,6 +1,6 @@
 name: KEFSKI Photo
 favicon: null
-layout_spectrum: 0.18185
+layout_spectrum: 0
 typography_spectrum: 0.60273
 title: KEFSKI Photo
 cta:
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#7f7f00'
     - '#ffffff'
-  brandStrength: 0.9375
-  lightness: 0.1875
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
